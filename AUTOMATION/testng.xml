@@ -1,0 +1,13 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.actitime.testscript.ProjectModule"/>
+      <class name="com.actitime.testscript.customerModule"/>
+      <class name="qsp.demoA1"/>
+      <class name="com.actitime.testscript.customermodule1"/>
+      <class name="com.actitime.testscript.TaskModule"/>
+      <class name="com.actitime.testscript.Demotest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
